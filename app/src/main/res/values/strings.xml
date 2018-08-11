@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">ftsc</string>
     <string name="title_activity_maps">Карта</string>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_login">MainActivity</string>
+    <string name="l_login">Логин</string>
+    <string name="l_pass">Пароль</string>
+    <string name="s_l_login">Логин:</string>
+    <string name="s_l_pass">Пароль:</string>
+    <string name="s_b_login">ВХОД</string>
+    <string name="title_activity_profile">ProfileActivity</string>
 </resources>
